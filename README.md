@@ -69,6 +69,8 @@ This leads to inefficient decision-making and missed growth opportunities
 - Top/Bottom Products  
 - Interactive Filters  
 
+![dashboard_1](dashboard_1.png)
+
 ## 📈 Outcome
 This project demonstrates the ability to perform end-to-end data analysis and generate actionable insights for business growth.
 
