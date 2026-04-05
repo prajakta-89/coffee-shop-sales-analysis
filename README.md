@@ -1,5 +1,9 @@
 # coffee-shop-sales-analysis
-Coffee Shop Sales Analysis using Excel. The coffee shop lacks clarity on: - Which products generate the most revenue   - Peak sales hours and customer demand patterns   - Underperforming products   - Sales trends across time 
+- Coffee Shop Sales Analysis using Excel. The coffee shop lacks clarity on: 
+- Which products generate the most revenue
+- Peak sales hours and customer demand patterns
+- Underperforming products
+- Sales trends across time 
 
 # ☕ Coffee Shop Sales Analysis (Excel)
 
@@ -35,7 +39,7 @@ This leads to inefficient decision-making and missed growth opportunities
 
 ## 📊 Exploratory Data Analysis (EDA)
 
-### Key Analysis:
+## Key Analysis:
 - Total Revenue & Orders  
 - Sales by Product Category  
 - Hourly Sales Trends  
