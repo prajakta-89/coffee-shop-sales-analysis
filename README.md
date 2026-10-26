@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Analysis| Microsoft Excel
+# ☕ Coffee Shop Sales Analysis | Microsoft Excel
 
 ## Project Overview
 The Coffee Shop Sales Analysis Dashboard is an interactive Excel-based data analytics project designed to evaluate sales performance, customer footfall, product demand, and ordering patterns across multiple store locations. The dashboard transforms sales data into meaningful visual insights to help businesses monitor performance and make data-driven decisions.This project analyzes coffee shop sales data to understand customer behavior, product performance, and revenue trends.
